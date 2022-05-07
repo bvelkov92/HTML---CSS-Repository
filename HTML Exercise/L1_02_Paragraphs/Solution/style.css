@@ -1,0 +1,18 @@
+body{
+    padding: 75px;
+    margin: 0;
+}
+h1{
+    padding: 10px;
+    margin: 0px;
+}
+#bolding{
+    font-weight: bold;
+}
+#italic{
+    font-style: italic;
+}
+p{
+    padding: 10px;
+    margin: 0px;
+}

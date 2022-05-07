@@ -1,0 +1,21 @@
+body article{
+    background: #E6E5E5;
+    padding: 1px 0 1px 0;
+    margin: 100px 250px 100px 250px;
+}
+li {
+    text-decoration: underline;
+    bottom: 1px;
+}
+article h3{
+    text-align: center;
+    color: #224364;
+    
+}  
+article {
+    width: 400px;
+    height: 250px;
+}
+ol{
+    margin: 0;
+}

@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+}
+section{
+    margin: 80px auto 20px;
+}
+h1{
+    text-align: center;
+    padding: 46px 250px 37px 23px;
+    margin: 0;
+    font-size: 35px;
+}
+h3{
+    font-style: italic;
+    margin: 18px 0 0 172px;
+}
+p{
+    margin: 10px auto 0 171px;
+    width: 60%;
+}
+p.text{
+    margin: 10px 0 0 172px;
+}

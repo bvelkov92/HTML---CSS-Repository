@@ -1,0 +1,11 @@
+table, tr,td{
+    border: 1px solid black;
+    border-spacing: 0 ;
+    text-align: center;
+}
+#ri{
+    text-align: right;
+}
+table{
+    width: 300px;
+}
